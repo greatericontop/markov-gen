@@ -1,5 +1,4 @@
 import random
-import os
 
 
 def ngram_gen(txt, n_gram_order):
