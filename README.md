@@ -1,5 +1,5 @@
 # markov-gen
-![Markov Chain Text Generator](https://github.com/itsron717/markov-gen/blob/master/static/Screenshot%202019-12-15%20at%2011.28.26%20AM.png)
+Markov Chain Text Generator
 
 > Demo can be found [here](https://markov-gen.herokuapp.com/).
 
